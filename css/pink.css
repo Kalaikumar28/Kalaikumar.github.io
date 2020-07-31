@@ -1,0 +1,24 @@
+
+.aside .logo a::before{
+	border-top:4px solid dodgerblue;
+	border-left:4px solid dodgerblue;
+}
+
+.aside .logo a::after{
+	border-right:4px solid dodgerblue;
+	border-bottom:4px solid dodgerblue;
+}
+
+.aside .nav li a:hover{
+	color:dodgerblue;
+}
+.btn,
+.about .about-content .skills .skill-item .progress .progress-in,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.contact .social-links a{
+	background-color: dodgerblue;
+}
